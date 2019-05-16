@@ -1,0 +1,7 @@
+module utils2
+library jtds.jar
+library mysql-connector-java-bin.jar
+library mariadb-java-client.jar
+library postgresql.jdbc4.jar
+library oracle-ojdbc14.jar
+library oracle-orai18n.jar

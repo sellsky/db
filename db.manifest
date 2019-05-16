@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: utils2.jar jtds.jar mysql-connector-java-bin.jar mariadb-java-client.jar postgresql.jdbc4.jar oracle-ojdbc14.jar oracle-orai18n.jar
